@@ -6,12 +6,5 @@ This project is designed to develop modular AI building blocks leveraging genera
 - 🛠️ Customizable pipelines for image generation.  
 - ⚡ Optimized for high performance using pre-trained models.  
   
-## **Technologies Used**  
-- **Languages**: Python  
-- **Frameworks**: TensorFlow, Hugging Face Transformers  
-- **APIs**: OpenAI  
- 
-
-
 
 ---
