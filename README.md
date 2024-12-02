@@ -1,5 +1,5 @@
 ## **Overview**  
-This project is designed to develop modular AI building blocks leveraging generative AI technologies. It integrates advanced API calls to create flexible and reusable components for applications like image generation, text completion, and more.
+This project is designed to develop modular AI building blocks leveraging generative AI technologies. It integrates advanced API calls to create flexible and reusable components for applications like image generation.
 
 VQGAN stands for Vector Quantized Generative Adversarial Network, while CLIP stands for Contrastive Image-Language Pretraining. Whenever we say VQGAN-CLIP1, we refer to the interaction between these two networks. They’re separate models that work in tandem. The way they work is that VQGAN generates the images, while CLIP judges how well an image matches our text prompt. This interaction guides our generator to produce more accurate images.
 
