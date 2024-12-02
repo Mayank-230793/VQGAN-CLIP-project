@@ -6,20 +6,6 @@ This project is designed to develop modular AI building blocks leveraging genera
 - 🛠️ Customizable pipelines for image generation.  
 - ⚡ Optimized for high performance using pre-trained models.  
   
-
-## **Folder Structure**  
-```
-project-name/  
-├── data/               # Sample datasets and prompts  
-├── models/             # Pre-trained models and configurations  
-├── scripts/            # Python scripts for core functionality  
-├── notebooks/          # Jupyter notebooks for experiments  
-├── results/            # Generated outputs (e.g., images, texts)  
-├── requirements.txt    # Dependencies  
-└── README.md           # Project documentation  
-```  
-
-
 ## **Technologies Used**  
 - **Languages**: Python  
 - **Frameworks**: TensorFlow, Hugging Face Transformers  
